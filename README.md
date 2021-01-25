@@ -1,4 +1,4 @@
-# Image Segmentation on CamVid with Variants of UNet
+# Image Segmentation on CamVid with Variants of U-Net
   - This repository contains implementations of different U-Net [1] models for semantic segmentation of images on the CamVid [4] dataset. 
  - The Jupyter notebooks are executed on the online Google Colab environment. 
 
