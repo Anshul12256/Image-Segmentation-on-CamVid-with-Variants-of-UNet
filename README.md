@@ -26,6 +26,7 @@ The Jupyter notebooks contains implementations from all the above mentioned file
 - Small U-Net + LeakyReLU is the best performing model in the Accuracy vs. Model size trade-off.
 - Small U-Net models are ~93 % smaller in size than the U-Net and the Extended U-Net models and have near about same performance as those models.
 - Extended U-Net has a 3% better IOU score than the standard U-Net model.
+- With the help of Dropout the training epochs are significantly reduced without affecting the performance.
 
 ## References
 <a id="1">[1]</a> O. Ronneberger and P.Fischer and T. Brox, 
